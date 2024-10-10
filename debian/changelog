@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-munnerz-goautoneg (0.0~git20191010.a7dc8b6-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * No-change source-only upload to migrate the package.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sergio Durigan Junior <sergiodj@debian.org>  Sat, 06 Feb 2021 18:50:15 -0500
+
+golang-github-munnerz-goautoneg (0.0~git20191010.a7dc8b6-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #981797)
+
+ -- Arthur Diniz <arthurbdiniz@gmail.com>  Wed, 03 Feb 2021 18:10:59 -0300
